@@ -1,10 +1,5 @@
 # Write code as functions - share code frequently - try to break down big code into chunks - write notes frequently too
 
-ask for DIETARY REQUIREMENTS:  i.e. are you vegetarian? halal?
-ask for how much time they have: length of time to cook
-
-
-
 import requests
 
 def recipe_search(ingredient): # Register to get an APP ID and key https://developer.edamam.com/
